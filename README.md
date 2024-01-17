@@ -13,7 +13,7 @@
 |---|
 |<img width="800" src="https://github.com/mango606/knu-capstone-flutter/assets/75062110/bc4a2c2b-bfd9-4980-bba4-eeb0a9b5c6a9">|
 
-## 프로젝트 결과
+## 📽️ 프로젝트 결과
 |&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;앱 실행 영상&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|
 |---|
 
