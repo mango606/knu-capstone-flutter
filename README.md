@@ -17,7 +17,7 @@
 |&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;앱 실행 영상&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|
 |---|
 
-https://github.com/mango606/knu-capstone-flutter/assets/75062110/57f7510f-bb49-4b64-8d53-390852896482
+https://github.com/mango606/knu-capstone-flutter/assets/75062110/f3178b4d-2b81-48dd-b2f4-f14700025a4b
 
 ## ✔️ 커밋 규칙
 ```
