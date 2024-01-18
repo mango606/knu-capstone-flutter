@@ -1,4 +1,5 @@
 # 2023 강원대학교 캡스톤 프로젝트
+강원대학교 컴퓨터공학과 졸업 과제로 제출한 실시간 질의응답 서비스 앱입니다.
 
 ## 💻 팀원 소개
 |[👑손민주](https://github.com/mango606)|[남동현](https://github.com/namudongs)|[김은희](https://github.com/euniiiii)|
